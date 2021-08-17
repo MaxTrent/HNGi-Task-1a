@@ -1,0 +1,16 @@
+/home/max/Desktop/Print_Name/name/bin/Debug/net5.0/name
+/home/max/Desktop/Print_Name/name/bin/Debug/net5.0/name.deps.json
+/home/max/Desktop/Print_Name/name/bin/Debug/net5.0/name.runtimeconfig.json
+/home/max/Desktop/Print_Name/name/bin/Debug/net5.0/name.runtimeconfig.dev.json
+/home/max/Desktop/Print_Name/name/bin/Debug/net5.0/name.dll
+/home/max/Desktop/Print_Name/name/bin/Debug/net5.0/ref/name.dll
+/home/max/Desktop/Print_Name/name/bin/Debug/net5.0/name.pdb
+/home/max/Desktop/Print_Name/name/obj/Debug/net5.0/name.csproj.AssemblyReference.cache
+/home/max/Desktop/Print_Name/name/obj/Debug/net5.0/name.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Desktop/Print_Name/name/obj/Debug/net5.0/name.AssemblyInfoInputs.cache
+/home/max/Desktop/Print_Name/name/obj/Debug/net5.0/name.AssemblyInfo.cs
+/home/max/Desktop/Print_Name/name/obj/Debug/net5.0/name.csproj.CoreCompileInputs.cache
+/home/max/Desktop/Print_Name/name/obj/Debug/net5.0/name.dll
+/home/max/Desktop/Print_Name/name/obj/Debug/net5.0/ref/name.dll
+/home/max/Desktop/Print_Name/name/obj/Debug/net5.0/name.pdb
+/home/max/Desktop/Print_Name/name/obj/Debug/net5.0/name.genruntimeconfig.cache
